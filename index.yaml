@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wso2amhelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-07T16:23:04.578479839+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 8620f6ca3da8953f43d0866eb2ffdb2876b8aacfe87ee7378f0c6b5622ced46b
+    name: wso2amhelm
+    type: application
+    urls:
+    - https://github.com/bayyavasu/wso2helm/wso2amhelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-07T16:23:04.577570362+05:30"
